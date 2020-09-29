@@ -1,5 +1,6 @@
 # Progressive-Budget
 ## Unit 18: PWA Homework
+![GitHub license](https://img.shields.io/badge/Made%20by-%40tarazin-pink)
 
 ## Description 
 
@@ -13,7 +14,11 @@ Offline Functionality:
 
 When brought back online:
 
-*Offline entries should be added to tracker
+* Offline entries should be added to tracker
 
 ### A Screenshot of the App
 ![Capture1](https://github.com/tarazin/Progressive-Budget/blob/master/public/icons/Capture1.JPG) 
+
+## Link
+
+- [Deployed App on Heroku](https://obscure-everglades-71119.herokuapp.com/)
