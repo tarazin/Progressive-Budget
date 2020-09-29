@@ -16,4 +16,4 @@ When brought back online:
 Offline entries should be added to tracker.
 
 ### A Screenshot of the App
-![Capture1](./public/icons/Capture1.jpg) 
+![Capture1](https://github.com/tarazin/Progressive-Budget/blob/master/public/icons/Capture1.JPG) 
